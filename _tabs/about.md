@@ -4,5 +4,7 @@ icon: fas fa-info
 order: 4
 ---
 
+Just a C/C++ software engineer to jot down some notes.
+Help me to record and share my knowledge.
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+If there is any mistake in my post, please feel free to contact me.
